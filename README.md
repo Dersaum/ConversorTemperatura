@@ -1,4 +1,4 @@
-# ConversorTemperatura
+# Conversor de Temperatura
 
 Programa simples feito em Windows Form para converter temperatura
 
